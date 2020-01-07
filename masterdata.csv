@@ -1,0 +1,15 @@
+,"$/kw for gen, $/kwh for storage","$/kw for gen, $/kwh for storage",mmbtu/mwh,$/mmbtu,kg/mmbtu,$/mwh,,,%,GW / GWh,0/1
+technology,capital cost,fixed o&m,heat rate,fuel cost,co2 content,variable,efficiency,lifetime,irr,current installed,Technology allowed
+Solar,600,18,0,0,0,0,,30,5,,
+Wind,1000,30,0,0,0,0,,30,5,,
+Nuclear,5000,150,10,1,0,10,,30,5,,
+Coal,4000,120,9,2,100,18,,30,5,,
+Coal CCS,6000,180,9.9,2,10,19.8,,30,5,,
+Gas CCGT,1000,30,7,8,50,56,,30,5,,
+Gas CCGT CCS,1700,51,7.7,8,5,61.6,,30,5,,
+Gas OCGT,400,12,11,8,50,88,,30,5,,
+Electrolyzer,500,15,,,,,0.75,20,5,,
+Fuel Cell,800,24,,,,,0.5,20,5,,
+Battery Power,50,1.5,,,,,0.85,15,5,,
+Hydrogen Energy,0.7,0.021,,,,,,30,5,,
+Battery Energy,100,3,,,,,,15,5,,
