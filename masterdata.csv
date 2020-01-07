@@ -1,4 +1,3 @@
-,"$/kw for gen, $/kwh for storage","$/kw for gen, $/kwh for storage",mmbtu/mwh,$/mmbtu,kg/mmbtu,$/mwh,,,%,GW / GWh,0/1
 technology,capital cost,fixed o&m,heat rate,fuel cost,co2 content,variable,efficiency,lifetime,irr,current installed,Technology allowed
 Solar,600,18,0,0,0,0,,30,5,,
 Wind,1000,30,0,0,0,0,,30,5,,
